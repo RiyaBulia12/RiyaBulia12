@@ -1,7 +1,7 @@
-<h1 align='center'> Hi! :wave: I'm Riya</h1>
+<h1 align='center'> Hi! :wave: I'm Riya B.</h1>
 
-- 🌱 <i>Currently:</i> Honing my Full Stack Developer Skills at Microverse. 
-- 🔭 <i>Previously:</i> Software Engineer at Infinite Computing Solution, India; Associate Software Engineer at Casenet, USA
+- 🌱 <i>Currently:</i> Honing my Full Stack Developer Skills (Microverse) 
+- 🔭 <i>Previously:</i> Software Engineer (India) || Associate Software Engineer (USA)
 <br/>
 <div align='center'> 
   <img width="380" src="https://github-readme-stats.vercel.app/api?username=RiyaBulia12&show_icons=true&theme=onedark"/> &nbsp;
