@@ -7,7 +7,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&vCenter=true&color=79A360&center=false&width=600&lines=greeting+%3D++%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+(Namaste)%F0%9F%99%8F%F0%9F%8F%BB;self.name+%3D+Riya+Bulia;self.location+%3D+India;self.role+%3D+Software+Engineer;self.like+%3D+Organized+and+clean+code;self.sparetime+%3D+Like+watching+movies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&vCenter=true&color=79A360&center=false&width=600&lines=greeting+%3D++%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+(Namaste)%F0%9F%99%8F%F0%9F%8F%BB;self.name+%3D+Riya+Bulia;self.location+%3D+India;self.role+%3D+Software+Engineer;self.like+%3D+Organized+and+clean+code;self.sparetime+%3D+Watching+movies+or+sleeping+%F0%9F%98%B4)](https://git.io/typing-svg)
 <br>
 
 ### Tech Stack
