@@ -24,7 +24,3 @@
 </div>
 
 <br>
-
-### Random Quote
-![Quote](https://github-readme-quotes.herokuapp.com/quote?quoteCategory=fun&layout=churchill&theme=calm)
-
